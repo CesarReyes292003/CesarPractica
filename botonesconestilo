@@ -8,11 +8,9 @@
 </head>
 <body>
 
-    <input type="button" onclick="alert('HOLA!')"> <br>
-
-    <input type="text"> <br>
-
-    <input type="number">
+<button type="button" onclick="alert('Hola, Soy Cesar de Jesús Reyes Ruiz ')" class="btn btn-primary">Presioname</button> <br>
+    <button type="button" onclick="alert('Hola!')" class="btn btn-secondary">Boton Dos</button> <br>
+    <button type="button" onclick="alert('HOLA!')" class="btn btn-link">Link de Prueba</button>
     
 </body>
 </html>
