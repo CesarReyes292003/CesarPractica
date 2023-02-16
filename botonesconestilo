@@ -6,9 +6,9 @@
 </head>
 <body>
 
-<button type="button" onclick="alert('Hola, soy Brandon')" class="btn btn-primary">Presioname</button> <br>
-    <button type="button" onclick="alert('Hola otra vez, soy Brandon')" class="btn btn-secondary">Boton Dos</button> <br>
-    <button type="button" onclick="alert('No lleva a ningun lado')" class="btn btn-link">Link de Prueba</button>
+<button type="button" onclick="alert('Hola')" class="btn btn-primary">Presioname</button> <br>
+    <button type="button" onclick="alert('Holaa')" class="btn btn-secondary">Boton Dos</button> <br>
+    <button type="button" onclick="alert('holaaa')" class="btn btn-link">Link de Prueba</button>
     
 </body>
 </html>
